@@ -26,7 +26,7 @@ to plot the view points.
 """
 import os, sys, numpy as np, copy
 import matplotlib
-matplotlib.use("Agg")
+#matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from matplotlib.gridspec import GridSpec

@@ -20,7 +20,7 @@ PYTHONPATH='.' PYOPENGL_PLATFORM=egl python scripts/script_env_vis.py \
 import sys
 import numpy as np
 import matplotlib
-matplotlib.use('TkAgg')
+#matplotlib.use('TkAgg')
 from PIL import ImageTk, Image
 import Tkinter as tk
 import logging

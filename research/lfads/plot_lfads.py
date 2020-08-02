@@ -18,7 +18,7 @@ from __future__ import division
 from __future__ import print_function
 
 import matplotlib
-matplotlib.use('Agg')
+#matplotlib.use('Agg')
 from matplotlib import pyplot as plt
 import numpy as np
 import tensorflow as tf

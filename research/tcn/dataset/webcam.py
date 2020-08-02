@@ -54,7 +54,7 @@ import sys
 import time
 import cv2
 import matplotlib
-matplotlib.use('TkAgg')
+#matplotlib.use('TkAgg')
 from matplotlib import animation  # pylint: disable=g-import-not-at-top
 import matplotlib.pyplot as plt
 import numpy as np

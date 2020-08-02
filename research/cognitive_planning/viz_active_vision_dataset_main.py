@@ -41,7 +41,7 @@ python viz_active_vision_dataset_main.py --mode=eval --eval_folder=/usr/local/go
 import matplotlib
 # pylint: disable=g-import-not-at-top
 # Need Tk for interactive plots.
-matplotlib.use('TkAgg')
+#matplotlib.use('TkAgg')
 import tensorflow as tf
 from matplotlib import pyplot as plt
 import numpy as np

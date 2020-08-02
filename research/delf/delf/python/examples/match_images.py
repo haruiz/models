@@ -29,7 +29,7 @@ import sys
 
 import matplotlib
 # Needed before pyplot import for matplotlib to work properly.
-matplotlib.use('Agg')
+#matplotlib.use('Agg')
 import matplotlib.image as mpimg  # pylint: disable=g-import-not-at-top
 import matplotlib.pyplot as plt
 import numpy as np

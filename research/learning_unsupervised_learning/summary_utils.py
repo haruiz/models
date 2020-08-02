@@ -24,7 +24,7 @@ import numpy as np
 import time
 import re
 import math
-matplotlib.use("Agg")
+#matplotlib.use("Agg")
 
 import matplotlib.pyplot as plt
 import scipy.signal

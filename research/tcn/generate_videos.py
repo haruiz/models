@@ -52,7 +52,7 @@ import cv2
 import tensorflow as tf
 import os
 import matplotlib
-matplotlib.use("pdf")
+#matplotlib.use("pdf")
 import matplotlib.animation as animation
 import matplotlib.pyplot as plt
 import numpy as np
